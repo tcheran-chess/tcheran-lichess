@@ -157,6 +157,7 @@ challenge:                         # Incoming challenges.
   # block_list:                      # List of users from which the challenges are always declined.
   online_block_list:
     - https://raw.githubusercontent.com/xu-shawn/lichess-bots-blocklist/refs/heads/main/blocklist
+    - https://raw.githubusercontent.com/xu-shawn/lichess-bots-blocklist/refs/heads/main/sloplist
 # allow_list:                      # List of users from which challenges are exclusively accepted, all others being declined. If empty, challenges from all users may be accepted.
 #   - user3
 #   - user4
